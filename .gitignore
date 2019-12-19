@@ -1,0 +1,5 @@
+bin
+Corpus
+obj
+file*.txt
+*.dat

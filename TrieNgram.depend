@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1492121723 source:/home/iprudnikov/Tech_skills/Coding/Edu_projects/TrieNgram_Revised/main.cpp
+	"trie.h"
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<chrono>
+	<random>
+
+1491610028 /home/iprudnikov/Tech_skills/Coding/Edu_projects/TrieNgram_Revised/trie.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<random>
+	<vector>
+	<deque>
+	<stdexcept>
+	<cstring>
+	<memory>
+	<fstream>
+	<sys/stat.h>
+	<fcntl.h>
+	<dirent.h>
+	<unicode/ustream.h>
+	<unicode/brkiter.h>
+	<unicode/ustring.h>
+	"unicode/ustdio.h"
+	"unicode/uchar.h"
+
+1492119651 source:/home/iprudnikov/Tech_skills/Coding/Edu_projects/TrieNgram_Revised/trie.cpp
+	"trie.h"
+
