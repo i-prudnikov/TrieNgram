@@ -30,3 +30,35 @@
 1492119651 source:/home/iprudnikov/Tech_skills/Coding/Edu_projects/TrieNgram_Revised/trie.cpp
 	"trie.h"
 
+1492119652 source:/media/psf/Home/DevNS/various/Edu_projects/Archive.zip Folder/TrieNgram_Revised/trie.cpp
+	"trie.h"
+
+1576749218 /media/psf/Home/DevNS/various/Edu_projects/Archive.zip Folder/TrieNgram_Revised/trie.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<random>
+	<vector>
+	<deque>
+	<stdexcept>
+	<cstring>
+	<memory>
+	<fstream>
+	<sys/stat.h>
+	<fcntl.h>
+	<dirent.h>
+	<unistd.h>
+	<unicode/ustream.h>
+	<unicode/brkiter.h>
+	<unicode/ustring.h>
+	"unicode/ustdio.h"
+	"unicode/uchar.h"
+
+1576749371 source:/media/psf/Home/DevNS/various/Edu_projects/Archive.zip Folder/TrieNgram_Revised/main.cpp
+	"trie.h"
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<chrono>
+	<random>
+
