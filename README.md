@@ -1,4 +1,4 @@
-##This project shows implementation of Markov chain, for generating text based on n-gramms.
+## This project shows implementation of Markov chain, for generating text based on n-gramms.
 The overall logic is following:
 1. Text corpus is loaded into memory and trie structure is created, with the specified
 Markov chain rank (n)
